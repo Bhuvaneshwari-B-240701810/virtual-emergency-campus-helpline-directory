@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/virtual-emergency-campus-helpline-directory/static/css/main.17cec84a.css",
+    "main.js": "/virtual-emergency-campus-helpline-directory/static/js/main.c11623fe.js",
+    "index.html": "/virtual-emergency-campus-helpline-directory/index.html",
+    "main.17cec84a.css.map": "/virtual-emergency-campus-helpline-directory/static/css/main.17cec84a.css.map",
+    "main.c11623fe.js.map": "/virtual-emergency-campus-helpline-directory/static/js/main.c11623fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17cec84a.css",
+    "static/js/main.c11623fe.js"
+  ]
+}
