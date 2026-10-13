@@ -1,0 +1,29 @@
+
+# Node.js dependencies
+node_modules/
+frontend/node_modules/
+
+# Build output
+frontend/build/
+frontend/dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Log files
+npm-debug.log*
+*.log
+
+# Editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
